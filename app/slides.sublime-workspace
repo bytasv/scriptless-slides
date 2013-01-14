@@ -1,0 +1,753 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sl",
+				"slide-number"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"mess",
+				"messageID"
+			],
+			[
+				"Item",
+				"ItemInstance"
+			],
+			[
+				"cra",
+				"crawlPage"
+			],
+			[
+				"format",
+				"formatParams"
+			],
+			[
+				"get",
+				"getURL"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"file",
+				"fileName"
+			],
+			[
+				"fil",
+				"fileName"
+			],
+			[
+				"cr",
+				"crawlCount"
+			],
+			[
+				"detach",
+				"detachMenu"
+			],
+			[
+				"has",
+				"has-tip"
+			],
+			[
+				"registerF",
+				"registerFormHeight"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8386,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/compass_twitter_bootstrap/_main.scss",
+			"settings":
+			{
+				"buffer_size": 8801,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "styles/compass_twitter_bootstrap/_variables.scss",
+			"settings":
+			{
+				"buffer_size": 9659,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"set syn css",
+				"Set Syntax: CSS"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"synt rai",
+				"Set Syntax: Ruby on Rails"
+			],
+			[
+				"set sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"set",
+				"Set Syntax: CSS"
+			],
+			[
+				"set cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"projec",
+				"Project: Add Folder"
+			],
+			[
+				"set synt sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"set syn cs",
+				"Set Syntax: CSS"
+			],
+			[
+				"set syn sas",
+				"Set Syntax: Sass"
+			],
+			[
+				"pac",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/bytasv/Desktop/md.sublime-project",
+		"/Users/bytasv/projects/slides/app/styles/_compass_twitter_bootstrap.scss",
+		"/Users/bytasv/projects/slides/app/styles/compass_twitter_bootstrap/_mixins.scss",
+		"/Users/bytasv/projects/slides/app/styles/compass_twitter_bootstrap/_variables.scss",
+		"/Users/bytasv/projects/slides/.sass-cache/34270040aa9f7ad8bde58d3ceb744432f9b4ef35/_mixins.scssc",
+		"/Users/bytasv/projects/slides/app/styles/compass_twitter_bootstrap/main.less",
+		"/Users/bytasv/projects/slides/app/styles/compass_twitter_bootstrap/_main.less",
+		"/Users/bytasv/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/bytasv/projects/aplinkos/addons/shared_addons/themes/base/views/layouts/default.html",
+		"/Users/bytasv/projects/aplinkos/addons/shared_addons/themes/base/views/modules/blog/archive.php",
+		"/Users/bytasv/projects/aplinkos/system/cms/modules/blog/views/posts.php",
+		"/Users/bytasv/projects/aplinkos/addons/shared_addons/themes/base/css/less/main.less",
+		"/Users/bytasv/Library/Application Support/Sublime Text 2/Packages/Default/Default (OSX).sublime-keymap",
+		"/Users/bytasv/Library/Application Support/Sublime Text 2/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/bytasv/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/bytasv/projects/aplinkos/addons/shared_addons/themes/base/views/partials/aside.html",
+		"/Users/bytasv/projects/aplinkos/addons/shared_addons/themes/base/views/modules/blog/view.php",
+		"/Users/bytasv/Downloads/uploadify-v3.1/jquery.uploadify-3.1.js",
+		"/Users/bytasv/Downloads/uploadify-v3.1/jquery.uploadify-3.1.min.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/application.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/delete_account.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/share.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/searchbar.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/md-tracker.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/login.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/info_box.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/fb_share_game.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/fb_integration.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/fb-like-box.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/faq.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/custom.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/common.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/ajax_validator.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/admin.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/upload.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/beta.js",
+		"/Users/bytasv/projects/md/app/views/layouts/fb_fanpage.html.erb",
+		"/Users/bytasv/projects/md/app/views/layouts/_head.html.erb",
+		"/Users/bytasv/projects/md/app/assets/javascripts/feedback.js.coffee",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/change_country.js.coffee",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/colors.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/heartme_game.js.coffee",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/admin/black_base.js.coffee",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/admin/identity.js.coffee",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/catalog/item.js.coffee",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/item.js.coffee",
+		"/Users/bytasv/projects/md/app/assets/javascripts/lib/farbtastic.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/lib/ga.js.coffee",
+		"/Users/bytasv/projects/md/app/assets/javascripts/lib/kropper.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/lib/canvas/html2canvas.js",
+		"/Users/bytasv/projects/md/app/helpers/admin/identity_helper.rb",
+		"/Users/bytasv/projects/md/app/views/admin/translation/index.html.erb",
+		"/Users/bytasv/projects/md/app/views/black_base/index.html.erb",
+		"/Users/bytasv/projects/md/app/views/blog_gallery/index.html.erb",
+		"/Users/bytasv/projects/md/app/views/blog_plugin/index.html.erb",
+		"/Users/bytasv/projects/md/app/views/blogger_plugin/index.html.erb",
+		"/Users/bytasv/projects/md/app/views/catalog/_item_list_controls.html.erb",
+		"/Users/bytasv/projects/md/app/views/catalog/dialog_move_to_other_portal.html.erb",
+		"/Users/bytasv/projects/md/app/views/closet_plugin/index.html.erb",
+		"/Users/bytasv/projects/md/app/views/forum/_topic_list.html.erb",
+		"/Users/bytasv/projects/md/app/views/layouts/_redirect_home.html.erb",
+		"/Users/bytasv/projects/md/app/views/layouts/default.html.erb",
+		"/Users/bytasv/projects/md/app/views/layouts/plain.html.erb",
+		"/Users/bytasv/projects/md/app/views/main/_welcome_register.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/facebook/facebook_fanpage.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/general/get_invitation.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/general/invite_friends.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/general/reset_password.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/general/unsubscribe_message.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/mojeid/register.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/move_to_babies/move_info.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/msg_template/group_send.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/msg_template/index.html.erb",
+		"/Users/bytasv/projects/md/app/views/member/signup/popup/start.html.erb",
+		"/Users/bytasv/projects/md/app/views/photo/dialog_upload_photo.html.erb",
+		"/Users/bytasv/projects/md/app/views/share/email.html.erb",
+		"/Users/bytasv/projects/md/app/views/shared/ckeditor/admin.html.erb",
+		"/Users/bytasv/projects/md/app/views/shared/forms/_identity.html.erb",
+		"/Users/bytasv/projects/md/app/views/shared/misc/crop_photo.html.erb",
+		"/Users/bytasv/projects/md/app/views/social_plugin/index.html.erb",
+		"/Users/bytasv/projects/md/app/views/trading_location/_form.html.erb",
+		"/Users/bytasv/projects/md/app/views/trading_location/index.html.erb",
+		"/Users/bytasv/projects/md/engines/payments/app/assets/javascripts/payments/item_wallet_popup.js",
+		"/Users/bytasv/projects/md/engines/payments/app/views/payments/methods/mokipay/new.html.erb",
+		"/Users/bytasv/projects/md/engines/payments/app/views/payments/methods/paypal/new.html.erb",
+		"/Users/bytasv/projects/md/engines/payments/app/views/payments/methods/sofort/new.html.erb",
+		"/Users/bytasv/projects/md/engines/payments/app/views/payments/methods/webtopay_macro/new.html.erb",
+		"/Users/bytasv/projects/md/gems/md_support/lib/md_support/helpers/application_helper.rb",
+		"/Users/bytasv/projects/md/public/ckeditor/ckeditor.asp",
+		"/Users/bytasv/projects/md/public/ckeditor/ckeditor_php4.php",
+		"/Users/bytasv/projects/md/public/ckeditor/ckeditor_php5.php",
+		"/Users/bytasv/projects/md/public/javascripts/szm_mclient.js",
+		"/Users/bytasv/projects/md/spec/requests/info_box_spec.rb",
+		"/Users/bytasv/projects/md/spec/requests/social_plugin_spec.rb",
+		"/Users/bytasv/projects/md/spec/requests/member/general_spec.rb",
+		"/Users/bytasv/projects/md/spec/support/capybara_macros.rb",
+		"/Users/bytasv/projects/md/spec/support/ui_macros.rb",
+		"/Users/bytasv/projects/md/app/views/admin/facebook_games/show.html.erb",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/general/my_settings.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/transaction.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/msg_template.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/msg.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/move_to_babies.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/inbox.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/identity.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/general.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/member/game.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/admin/subscribers.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/admin/bottom_menu.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/social_plugin.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/share.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/forum.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/comment.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/closet_plugin.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/controllers/blog.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/size_selector.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/emoticons.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/dropmenu.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/catalog_filters.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/blogger_plugin.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/app/blog_plugin.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/otrs.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/form.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/lib/html5.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/lib/jquery.fancybox.pack.js",
+		"/Users/bytasv/projects/md/app/assets/javascripts/lib/jquery.masonry.js",
+		"/Users/bytasv/projects/md/app/controllers/blog_gallery_controller.rb",
+		"/Users/bytasv/projects/md/app/assets/javascripts/lib/jquery.thumbnailScroller.js"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"transit",
+			"command+p",
+			"command+shift",
+			";\n",
+			"aside",
+			"tipped",
+			"admin.js",
+			"$j",
+			"MD.Helpers",
+			"$j",
+			"noConflic",
+			"$j",
+			"(function($){",
+			"$j",
+			"modul",
+			"$j",
+			"masonry",
+			"__act_as_thumbnail_scroller",
+			"init_thumbnail_scroller",
+			".thumbnailScroller",
+			".masonry",
+			"init_uplo",
+			"uploadify",
+			"at-pop-up",
+			".flip",
+			"search-box-container",
+			"white_search.png",
+			"item_gradient_bg.png",
+			"chosen-sprite.png",
+			"system-photo-",
+			"system-photo-50.png",
+			"icons-13x13-sprite.png",
+			"male-photo",
+			"male-photo-20.png",
+			"app-store-badges",
+			"play-inactive",
+			"avatar-shadow-20.png",
+			"ios-inactive",
+			"ios-inactive@2x.png",
+			"footer-bg.png",
+			"noise-bg.png",
+			"data:image/png;base64",
+			"noise-bg",
+			"icons-13x13-sprite.png",
+			"inner-shadow",
+			"more-icons.png",
+			"noise-bg.png",
+			"page-new.png",
+			"white_search.png",
+			"icons-28x28-sprite.png",
+			"jjmenu",
+			"closeMenu",
+			"jjmenu",
+			"jjmen",
+			"consol",
+			"search-box",
+			"search",
+			"consol",
+			"triggerElement",
+			"init_folders_dropdowns",
+			"eval",
+			"init_folders_drop",
+			"folders-selec",
+			"conso",
+			"jjmenu",
+			"jj",
+			"folders-select",
+			"init_msg_template_menu",
+			"__act_as_user_admin_menu",
+			"init_user_ad",
+			"init_user",
+			"__act_as_user_admin",
+			"media-box",
+			"media-box\\",
+			"public",
+			"window.Uploader",
+			"el.after(ul.hide());\n",
+			"ul",
+			"menu",
+			"consol",
+			"conso",
+			"__act_as_user_admin_menu",
+			".menu",
+			"forum-bubble",
+			"default",
+			"box-sha",
+			"position-wrapp",
+			"drop-down-top-menu",
+			"overfl",
+			"media-box",
+			"__act_scrollto",
+			"media-box",
+			".forum-bubble",
+			".menu",
+			"console.log(this.$el, \"test\")",
+			"menu",
+			"ui-menu",
+			"fixed",
+			"buildMsgTemplateMenu",
+			"init_msg_template_menu",
+			"__act_as_msg_templates",
+			"forum-tool-line",
+			"scope",
+			".scope",
+			"SearchCategoryView",
+			"scope",
+			"createDropDownMenu",
+			"__act_as_drop_down_link",
+			"__act_as_no_chosen",
+			"__act_as_drop_down_link",
+			"__act_as_no_chosen",
+			"scope",
+			"__act_as_drop_down_link",
+			"drop-down-top-menu",
+			"__act_as_scrollfixed",
+			"init_scrollfixed",
+			"scrollToFixed",
+			"jquery.upload",
+			"jquery_ujs",
+			"__act_as_truncator",
+			"init_truncators",
+			"truncate",
+			"__act_as_item_color",
+			"init_colors",
+			"ItemColor",
+			"clicktale",
+			"clicktale.js",
+			"tipped"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 8386,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8276,
+								8276
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2102.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "styles/compass_twitter_bootstrap/_main.scss",
+					"settings":
+					{
+						"buffer_size": 8801,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								8615,
+								8615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2723.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "styles/compass_twitter_bootstrap/_variables.scss",
+					"settings":
+					{
+						"buffer_size": 9659,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1178,
+								1178
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 409.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"var",
+				"app/styles/compass_twitter_bootstrap/_variables.scss"
+			],
+			[
+				"mixin",
+				"app/styles/compass_twitter_bootstrap/_mixins.scss"
+			],
+			[
+				"varia",
+				"app/styles/compass_twitter_bootstrap/_variables.scss"
+			],
+			[
+				"mix",
+				".sass-cache/34270040aa9f7ad8bde58d3ceb744432f9b4ef35/_mixins.scssc"
+			],
+			[
+				"posts.php",
+				"system/cms/modules/blog/views/posts.php"
+			],
+			[
+				"main.le",
+				"addons/shared_addons/themes/base/css/less/main.less"
+			],
+			[
+				"photo_con",
+				"app/controllers/photo_controller.rb"
+			],
+			[
+				"common",
+				"app/assets/javascripts/app/common.js"
+			],
+			[
+				"tracki",
+				"app/models/database/system/tracking_session.rb"
+			],
+			[
+				"fb_fan",
+				"app/views/layouts/fb_fanpage.html.erb"
+			],
+			[
+				"head",
+				"app/views/layouts/_head.html.erb"
+			],
+			[
+				"appli",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"icon",
+				"app/assets/stylesheets/icons.scss.erb"
+			],
+			[
+				"box.scss",
+				"app/assets/stylesheets/box.scss.erb"
+			],
+			[
+				"default.html",
+				"app/views/layouts/default.html.erb"
+			],
+			[
+				"app/assets/stylesheets/default.css.erb",
+				"app/assets/stylesheets/default.css.erb"
+			],
+			[
+				"default.css",
+				"app/assets/stylesheets/default.css.erb"
+			],
+			[
+				"stylesheets/def",
+				"app/assets/stylesheets/defaults.scss.erb"
+			],
+			[
+				"default.h",
+				"app/views/layouts/default.html.erb"
+			],
+			[
+				"default",
+				"app/views/layouts/default.html.erb"
+			],
+			[
+				"defaul",
+				"engines/payments/spec/dummy/app/views/layouts/default.html.erb"
+			],
+			[
+				"search",
+				"app/views/forum/search.html.erb"
+			],
+			[
+				"full",
+				"app/views/layouts/full_page.html.erb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"con",
+				"config/constants/constants.rb"
+			],
+			[
+				"uploadif",
+				"app/assets/javascripts/lib/jquery.uploadify.js"
+			],
+			[
+				"mixi",
+				"app/assets/stylesheets/mixins.scss"
+			],
+			[
+				"globa",
+				"app/assets/stylesheets/global.scss"
+			],
+			[
+				"glo",
+				".sass-cache/74090abffb048921d2b4796b218e458af54891a9/global.scssc"
+			],
+			[
+				"full_l",
+				"app/views/layouts/full_page.html.erb"
+			],
+			[
+				"regist",
+				"app/assets/stylesheets/controllers/member/register.scss.erb"
+			],
+			[
+				"butt",
+				"app/assets/stylesheets/buttons.scss.erb"
+			],
+			[
+				"configloca",
+				"config/locales/lt.yml"
+			],
+			[
+				"start",
+				"app/views/member/signup/popup/start.html.erb"
+			],
+			[
+				"reg",
+				"app/assets/stylesheets/controllers/member/register.scss.erb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 307.0,
+	"status_bar_visible": true
+}
