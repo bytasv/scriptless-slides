@@ -239,3 +239,63 @@ body{
         }
     }
 }
+
+.test-dropdown{
+  display:none;
+}
+.toggle-dropdown{
+  &:focus{
+    &+.test-dropdown{
+      display:block;
+    }
+  }
+}
+
+.css-dropdown{
+  position:relative;
+  .toggle-css-dropdown{
+    display: inline-block;
+    color:white;
+    padding:5px;
+    border-radius:3px;
+    background:#666;
+    border:solid 1px #333;
+    &:hover{
+      background:#999;
+    }
+  }
+  .css-dropdown-body{
+    display:none;
+    &>ul{
+      display:block;
+    }
+  }
+  .css-dropdown-remote{
+    position:fixed;
+    left:-100%;
+    &:focus{
+      &+.css-dropdown-body{
+        display:block;
+      }
+    }
+  }
+  
+  ul{
+    display: none;
+    position:absolute;
+    background:white;
+    border-radius:3px;
+    li{
+      padding:3px 5px;
+      position:relative;
+      &:hover{
+        background:lightGreen;
+        &>ul{
+          top:0;
+          left:100%;
+          display:block;
+        }
+      }
+    }
+  }
+}
