@@ -15,7 +15,7 @@
         <div class="container">
             <ul class="navigation unstyled">
                 <li>
-                    <input type="radio" name="navigate" class="navigate" autofocus checked>
+                    <input type="radio" name="navigate" class="navigate">
                     <span class="section"></span>
                     <div class="slide">
                         <div class="main-title">Scriptless slideshow</div>
@@ -49,32 +49,47 @@
                     </div>
                 </li>
                 <li>
-                    <input type="radio" name="navigate" class="navigate">
+                    <input type="radio" name="navigate" class="navigate" autofocus checked>
                     <span class="section"></span>
                     <div class="slide">
-                      
+                      <div class="top-heading">CSS dropdowns</div>
                       <div class="css-dropdown">
-                        <label for="dropdown-1" class="toggle-css-dropdown">Options list</label>
                         <input type="text" id="dropdown-1" class="css-dropdown-remote">
+                        <label for="dropdown-1" class="toggle-css-dropdown btn">Dropdown 1</label>
+                        
                         <div class="css-dropdown-body">
-                          <ul class="unstyled">
-                            <li>Option one</li>
-                            <li>Option two</li>
-                            <li>
-                              Option three
-                              <ul class="unstyled">
-                                <li>Option one</li>
-                                <li>Option two</li>
-                                <li>Optionw three</li>
-                              </ul>
-                            </li>
-                            <li>Option four</li>
-                            <li>Option five</li>
+                          <ul class="dropdown-menu">
+                            <li><a href="#">Option 1</a></li>
+                            <li><a href="#">Option 2</a></li>
+                            <li><a href="#">Option 3</a></li>
+                            <li><a href="#">Option 4</a></li>
                           </ul>
                         </div>
                       </div>
 
-                      <div>Information under dropdown!</div>
+                      <div class="text-information">This dropdown closes when clicked anywhere except for toggle button.</div>
+
+                      <div class="css-dropdown">
+                        <input type="checkbox" id="dropdown-2" class="css-dropdown-remote">
+                        <label for="dropdown-2" class="toggle-css-dropdown btn">Dropdown 2</label>
+                        
+                        <div class="css-dropdown-body info-box">
+                          <label class="close" for="dropdown-2">×</label>
+                          <p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.</p>
+                        </div>
+
+                      </div>
+
+                      <div class="text-information">This dropdown is closed by clicking on toggle button or close button. </div>
+
+                    </div>
+                </li>
+                <li>
+                    <input type="radio" name="navigate" class="navigate">
+                    <span class="section"></span>
+                    <div class="slide">
+                        <div class="top-heading">Buttons</div>
+                        <div class="text-information">Button group, radio buttons, push in buttons.</div>
                     </div>
                 </li>
             </ul>
