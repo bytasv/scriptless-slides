@@ -196,9 +196,7 @@
 
 // Border Radius
 @mixin border-radius($radius) {
-  -webkit-border-radius: $radius;
-     -moz-border-radius: $radius;
-          border-radius: $radius;
+  border-radius: $radius;
 }
 
 // Single Corner Border Radius
@@ -653,4 +651,10 @@
     }
     $i: $i - 1;
   }
+}
+
+@mixin offscreen(){
+  position: fixed;
+  top:-100%;
+  left:-100%;
 }
