@@ -126,10 +126,16 @@ body{
         list-style-type: disc;
         margin-top:20px;
         li{
-            display:list-item;
-            text-align: left;
-            font-size: 22px;
-            line-height: 1.5;
+          display:list-item;
+          text-align: left;
+          font-size: 22px;
+          line-height: 1.5;
+        }
+        .content-list{
+          margin-top:0;
+          li{
+            font-size: 18px;
+          }
         }
     }
     .text-information{

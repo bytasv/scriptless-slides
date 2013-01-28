@@ -20,3 +20,7 @@ CSS UI elements:
 - Accordion:
   - All visible
   - Visible only one accordion item
+
+Used tools:
+- [Twitter's bootstrap](http://twitter.github.com/bootstrap/)
+- [Yeoman](http://yeoman.io/)
