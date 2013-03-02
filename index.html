@@ -9,16 +9,17 @@
 
 
   <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-  <link rel="stylesheet" href="styles/7bcebb7f.main.css">
+  <link rel="stylesheet" href="styles/3204effe.main.css">
 </head>
 <body>
   <div class="container">
     <ul class="navigation unstyled">
       <li>
-        <input type="radio" name="navigate" class="navigate">
+        <input type="radio" name="navigate" class="navigate" autofocus checked>
         <span class="section"></span>
         <div class="slide">
           <div class="main-title">Scriptless slideshow</div>
+          <div class="text-information">Use your keyboard (left & right keys) when page is ready, to navigate to other slides. If you use mouse for changing the slides you will loose focus and will not be able to navigate using keyboard.</div>
           <div class="author">
             <a href="https://github.com/bytasv" target="_blank">Vytautas Butkus</a>
           </div>
@@ -33,8 +34,8 @@
             <li>Techniques used</li>
             <li>CSS only UI Elements</li>
             <li>Transmitter pattern</li>
-            <li><code>TODO</code> Slides markup</li>
-            <li><code>TODO</code> Navigation helper</li>
+            <li>Slides markup</li>
+            <li>Slideshow explained</li>
           </ul>
         </div>
       </li>
@@ -235,7 +236,7 @@
         </div>
       </li>
       <li>
-        <input type="radio" name="navigate" class="navigate" autofocus checked>
+        <input type="radio" name="navigate" class="navigate">
         <span class="section"></span>
         <div class="slide">
           <div class="top-heading">Transmitter pattern</div>
@@ -246,11 +247,70 @@
         </div>
       </li>
       <li>
-        <input type="radio" name="navigate" class="navigate" autofocus checked>
+        <input type="radio" name="navigate" class="navigate">
         <span class="section"></span>
         <div class="slide">
           <div class="top-heading">Slides markup</div>
-          <div class="text-information"></div>
+          <div class="text-information">
+            If you want to make slides of your own you can make use of a few <code>class</code> names added on any <code>div</code> element:
+          </div>
+          <ul class="content-list">
+            <li>
+              <code>main-title</code> - used in first slide to display title of a slideshow
+            </li>
+            <li>
+              <code>top-heading</code> - used to display main title of the slide
+            </li>
+            <li>
+              <code>text-information</code> - used to add text paragraphs
+            </li>
+            <li>
+              <code>content-list</code> - used to "list" out items
+            </li>
+            <li>
+              <code>author</code> - used in the first slide to display author of the slides
+            </li>
+          </ul>
+        </div>
+      </li>
+      <li>
+        <input type="radio" name="navigate" class="navigate">
+        <span class="section"></span>
+        <div class="slide">
+          <div class="top-heading">Slideshow explained</div>
+          <div class="text-information">
+            Whole slideshow page consists of <code>three</code> main parts: <code>slides</code>, <code>navigation</code> and <code>slides counter</code>.
+          </div>
+          <div class="text-information">
+            <code>Slides</code> - are used to display any information that you want to present. They are information containers(obvious?!). Use <code>slides markup</code> inside to layout your information.
+          </div>
+          <div class="text-information">
+            <code>Navigation</code> - is made of those little circle object at the bottom of the page. It is used for fast jumping between any slide and keep track of slideshow progress as you progress more. Navigation uses <code>transmitter</code> pattern described before where <code>radio</code> buttons acts as <code>recievers</code> and slides are shown or hidden according to <code>radio's</code> state.
+          </div>
+          <div class="text-information">
+            <code>Slides counter</code> - is made with a help of <code>counter-increment</code> and <code>content: counter(NAME)</code> <code>css</code> properties. Total amount of slides is shown by displaying last slide counter's <code>value</code> at all times. Current slide's number responds to active slide counter's value.
+          </div>
+        </div>
+      </li>
+      <li>
+        <input type="radio" name="navigate" class="navigate">
+        <span class="section"></span>
+        <div class="slide">
+          <div class="top-heading">Final words</div>
+          <div class="text-information">
+            The idea came up when I read <a href="https://github.com/darcyclarke/Front-end-Developer-Interview-Questions">Front-end-Developer-Interview-Questions</a> and specificly: "Write a simple slideshow page. Bonus points if it does not use JS."
+          </div>
+          <div class="text-information">
+            I started working with a simple solutions like change content on <code>hover</code> or something similar, then I came up with an idea to use <code>inputs</code> for storing active state (which I started calling <code>transmitter pattern</code>). Everything went quite well and I even started doing simple <code>UI</code> widgets like dropdown, tabs, accordion with only css.
+          </div>
+          <div class="text-information">
+            After week or few while reading blogs I found link to <code>adobe's</code> blog page where some guy explained the very same technique in small details. Unfortunately I can not remmeber what was the name of blog post or who the person that posted was and I can not share link with you. :(
+            <br />
+            After another week or so I found <a href="http://labs.thecssninja.com/bootleg/">bootleg</a> page where <a href="https://twitter.com/ryanseddon">@ryanseddon</a> made a great demo using same technique and made twitter's bootstrap UI elements <code>javascriptless</code>.
+          </div>
+          <div class="text-information">
+            You can find all source files in my <a href="https://github.com/bytasv/scriptless-slides">repository @ Github</a>
+          </div>
         </div>
       </li>
     </ul>
