@@ -10,6 +10,20 @@
 
   <link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
   <link rel="stylesheet" href="styles/3204effe.main.css">
+
+  <script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-37877188-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  </script>
 </head>
 <body>
   <div class="container">
@@ -285,7 +299,7 @@
             <code>Slides</code> - are used to display any information that you want to present. They are information containers(obvious?!). Use <code>slides markup</code> inside to layout your information.
           </div>
           <div class="text-information">
-            <code>Navigation</code> - is made of those little circle object at the bottom of the page. It is used for fast jumping between any slide and keep track of slideshow progress as you progress more. Navigation uses <code>transmitter</code> pattern described before where <code>radio</code> buttons acts as <code>recievers</code> and slides are shown or hidden according to <code>radio's</code> state.
+            <code>Navigation</code> - is made of those little circle objects at the bottom of the page. It is used for fast jumping between any slide and keeping track of slideshow progress as you move on. Navigation uses <code>transmitter</code> pattern (which was described before) where <code>radio</code> buttons acts as <code>recievers</code> and slides are shown or hidden according to <code>radio's</code> state.
           </div>
           <div class="text-information">
             <code>Slides counter</code> - is made with a help of <code>counter-increment</code> and <code>content: counter(NAME)</code> <code>css</code> properties. Total amount of slides is shown by displaying last slide counter's <code>value</code> at all times. Current slide's number responds to active slide counter's value.
